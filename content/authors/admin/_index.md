@@ -69,4 +69,4 @@ highlight_name: true
 
 Shuwen Chai is a senior undergraduate student of Statistics at Renmin University of China. His research interests include trustworthy machine learning, transfer learning, and statistics. He is expected to get his BSc degree in June 2022.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
