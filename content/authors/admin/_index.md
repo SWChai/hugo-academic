@@ -43,8 +43,8 @@ social:
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar  # Alternatively, use `graduation-cap` icon from `ai` icon pack
-  icon_pack: fas
+- icon: google-scholar  # Alternatively, use `graduation-cap` icon from `fas` icon pack
+  icon_pack: ai
   link: https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&alert_preview_top_rm=2&gmla=AJsN-F6q49delczFXJP7SNEDOmV7dEPA9e_Wu4vflg17Vz6eHn13DFKJixnR89xoNnMHs86B6XeFbANZOZMy_bJrGg7onx7Ac4Qx3p-RZKEpPBO_9pX2-7U&user=UioAR_oAAAAJ
 - icon: github
   icon_pack: fab
