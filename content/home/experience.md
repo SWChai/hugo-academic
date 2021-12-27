@@ -29,12 +29,6 @@ experience:
     location: Canada
     date_start: '2021-04-01'
     date_end: '2021-11-01'
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
 
 design:
   columns: '2'
